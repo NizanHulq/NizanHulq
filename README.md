@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NizanHulq
-- 👀 I’m interested in backend programming
+- 👀 I’m interested in frontend programming
 - 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
